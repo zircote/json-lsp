@@ -1,5 +1,11 @@
 # json-lsp
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Claude Plugin](https://img.shields.io/badge/claude-plugin-orange.svg)](https://docs.anthropic.com/en/docs/claude-code/plugins)
+[![Marketplace](https://img.shields.io/badge/marketplace-zircote--lsp-purple.svg)](https://github.com/zircote/lsp-marketplace)
+[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
+
 A Claude Code plugin providing comprehensive JSON development support through:
 
 - **vscode-json-language-server** integration for IDE-like features
